@@ -3,3 +3,5 @@
 Get one problem a day straight to your inbox.
 
 Subscribe to Premium to get an in-depth solution to the daily problem.
+
+Written in Rails with ❤️.
